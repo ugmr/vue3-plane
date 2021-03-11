@@ -1,0 +1,95 @@
+{"frames": {
+
+"number-0.png":
+{
+	"frame": {"x":0,"y":0,"w":11,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":15},
+	"sourceSize": {"w":11,"h":15}
+},
+"number-1.png":
+{
+	"frame": {"x":11,"y":0,"w":11,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":15},
+	"sourceSize": {"w":11,"h":15}
+},
+"number-2.png":
+{
+	"frame": {"x":22,"y":0,"w":11,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":15},
+	"sourceSize": {"w":11,"h":15}
+},
+"number-3.png":
+{
+	"frame": {"x":33,"y":0,"w":11,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":15},
+	"sourceSize": {"w":11,"h":15}
+},
+"number-4.png":
+{
+	"frame": {"x":44,"y":0,"w":11,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":15},
+	"sourceSize": {"w":11,"h":15}
+},
+"number-5.png":
+{
+	"frame": {"x":55,"y":0,"w":11,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":15},
+	"sourceSize": {"w":11,"h":15}
+},
+"number-6.png":
+{
+	"frame": {"x":66,"y":0,"w":11,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":15},
+	"sourceSize": {"w":11,"h":15}
+},
+"number-7.png":
+{
+	"frame": {"x":77,"y":0,"w":11,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":15},
+	"sourceSize": {"w":11,"h":15}
+},
+"number-8.png":
+{
+	"frame": {"x":88,"y":0,"w":11,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":15},
+	"sourceSize": {"w":11,"h":15}
+},
+"number-9.png":
+{
+	"frame": {"x":99,"y":0,"w":11,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":15},
+	"sourceSize": {"w":11,"h":15}
+}},
+"animations": {
+	"number": ["number-0.png","number-1.png","number-2.png","number-3.png","number-4.png","number-5.png","number-6.png","number-7.png","number-8.png","number-9.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "number.png",
+	"format": "RGBA8888",
+	"size": {"w":110,"h":15},
+	"scale": "0.41667",
+	"smartupdate": "$TexturePacker:SmartUpdate:38154160155b5e924b89b66699096967:7a0549352ae1052672e39062adb759db:508720d883ff213f9536efb7456c155b$"
+}
+}
